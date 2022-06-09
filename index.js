@@ -10,5 +10,4 @@ for (const sheetName of workbook.SheetNames) {
     console.log(workSheets[sheetName]);
 }
 
-
 console.log(Object.entries(workSheets));
